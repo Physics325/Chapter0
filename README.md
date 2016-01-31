@@ -1,2 +1,2 @@
-# Chapter0
-Code samples and examples for Chapter 0
+# Chapter 0 
+Code samples, examples, and solutions for Chapter 0
